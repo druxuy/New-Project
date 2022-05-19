@@ -1,9 +1,9 @@
 @import 'build/scss/variables.scss'; 
 
-
+$primary: $sd-global-colors-blue-100;
 
 
 button.primary {
-    background-color: var($sd-global-colors-blue-100);
+    background-color: $primary;
     padding: var($sd-global-spacing-m);
 }
