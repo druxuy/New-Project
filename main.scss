@@ -4,5 +4,6 @@ button.primary {
     color: $sd-global-colors-white;
     background-color: $sd-global-colors-blue-500;
     padding: $sd-global-spacing-m;
+    border-radius: $sd-global-border-radius-none;
     border: none;
 }
